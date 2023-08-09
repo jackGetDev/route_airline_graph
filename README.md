@@ -1,11 +1,6 @@
 # route_airline_graph
-
-![image](https://github.com/jackGetDev/route_airline_graph/assets/57647314/38b7a7df-62d4-4c46-9e1a-4a024d0d054a)
-
+![image](https://github.com/jackGetDev/route_airline_graph/assets/57647314/72f49eb5-6da8-482c-8676-df347310038c)
 
 
-![image](https://github.com/jackGetDev/route_airline_graph/assets/57647314/2ba71e2f-a312-4fc7-87e8-ee53dd697a20)
+![image](https://github.com/jackGetDev/route_airline_graph/assets/57647314/dc13b3c7-842a-4456-8d79-60c82a98a35b)
 
-
-
-![image](https://github.com/jackGetDev/route_airline_graph/assets/57647314/33ecadfd-4add-4a1d-9c12-a570eac0afbb)
